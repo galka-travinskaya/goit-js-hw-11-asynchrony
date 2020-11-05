@@ -1,0 +1,28 @@
+{
+  "name": "goit-js-hw-11-asynchrony",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/*.html",
+    "build": "parcel build src/*.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/galka-travinskaya/goit-js-hw-11-asynchrony.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/galka-travinskaya/goit-js-hw-11-asynchrony/issues"
+  },
+  "homepage": "https://github.com/galka-travinskaya/goit-js-hw-11-asynchrony#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "parcel-plugin-nuke-dist": "^1.0.1"
+  },
+  "dependencies": {
+    "bootstrap.native": "^3.0.13",
+    "lodash.throttle": "^4.1.1"
+  }
+}
